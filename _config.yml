@@ -1,0 +1,7 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Hacker Réunion (RE)"
+description: "The purpose of this site is to host scripts and related content specifically for use in authorized red team engagements and offensive security simulations. These materials are used in controlled environments to support internal security assessments, adversary emulation exercises, detection engineering, and training scenarios. All content is deployed in non-production, monitored environments, and is never intended for real-world malicious use."
+show_downloads: false
+
